@@ -3,7 +3,7 @@ title: Principal component analysis with van Gogh
 #summary: An example of using the in-built project page.
 tags:
 - Visualization
-date: "2019-01"
+date: "2019-01-01"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
