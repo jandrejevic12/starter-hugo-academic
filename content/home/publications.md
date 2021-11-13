@@ -1,7 +1,7 @@
 ---
-# An instance of the Pages widget.
+# An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: project
+  page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
   #count: 3
   # Choose how many pages you would like to offset by
