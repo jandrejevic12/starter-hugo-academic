@@ -21,6 +21,9 @@ doi: "https://doi.org/10.1038/s41467-021-21625-2"
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
 
+# Optional external URL for project (replaces project detail page).
+#external_link: "https://doi.org/10.1038/s41467-021-21625-2"
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -31,7 +34,7 @@ publication_types: ["2"]
 publication: In *Nature Communications*
 publication_short: In *Nat Commun*
 
-abstract: As a confined thin sheet crumples, it spontaneously segments into flat facets delimited by a network of ridges. Despite the apparent disorder of this process, statistical properties of crumpled sheets exhibit striking reproducibility. Experiments have shown that the total crease length accrues logarithmically when repeatedly compacting and unfolding a sheet of paper. Here, we offer insight to this unexpected result by exploring the correspondence between crumpling and fragmentation processes. We identify a physical model for the evolution of facet area and ridge length distributions of crumpled sheets, and propose a mechanism for re-fragmentation driven by geometric frustration. This mechanism establishes a feedback loop in which the facet size distribution informs the subsequent rate of fragmentation under repeated confinement, thereby producing a new size distribution. We then demonstrate the capacity of this model to reproduce the characteristic logarithmic scaling of total crease length, thereby supplying a missing physical basis for the observed phenomenon.
+#abstract: 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -77,3 +80,6 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
+Jovana Andrejevic, Lisa M. Lee, Shmuel M. Rubinstein, and Chris H. Rycroft
+*Nature Communications*, March 2021
