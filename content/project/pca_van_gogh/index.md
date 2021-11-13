@@ -30,6 +30,6 @@ url_video: ""
 #slides: example
 ---
 
-In this project, which was awarded first place in the [Harvard Data Science Animation Challenge](https://sites.google.com/view/harvard-data-science-animation/home) in 2019, I used a collection of van Gogh's paintings to shed light on a versatile tool in data science: principal component analysis. A hallmark of van Gogh's Impressionist style was its rendition of only the essential features of his subjects, favoring simpler representations accomplished with broad brush strokes and bold color palettes. In turn, principal component analysis can be thought of as a view through van Gogh's eyes: By reducing a collection of data only to those essential features which capture the greatest variability across the dataset, it provides a simpler representation of high-dimensional data.
+This project uses a collection of van Gogh's paintings to shed light on a versatile tool in data science: principal component analysis. A hallmark of van Gogh's Impressionist style was its rendition of only the essential features of his subjects, favoring simpler representations accomplished with broad brush strokes and bold color palettes. In turn, principal component analysis can be thought of as a view through van Gogh's eyes: By reducing a collection of data only to those essential features which capture the greatest variability across the dataset, it provides a simpler representation of high-dimensional data.
 
-Please check out the Github repository for a detailed description of the project!
+Please check out the Github repository for a detailed description of the project! In 2019, it was awarded first place in the [Harvard Data Science Animation Challenge](https://sites.google.com/view/harvard-data-science-animation/home).
