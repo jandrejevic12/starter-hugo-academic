@@ -6,7 +6,7 @@ tags:
 date: "2019-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/jandrejevic12/pca_animation/blob/master/jovanaandrejevic_submission.md"
+#external_link: ""
 
 image:
   #caption: Photo by rawpixel on Unsplash
