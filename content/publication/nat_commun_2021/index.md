@@ -1,8 +1,10 @@
 ---
 title: "A model for the fragmentation kinetics of crumpled thin sheets"
+summary: Jovana Andrejevic, Lisa M. Lee, Shmuel M. Rubinstein, Chris H. Rycroft, _Nature Communications_, March 2021
+date: "2021-03-05"
 
 # Optional external URL for project (replaces project detail page).
-#external_link: "https://doi.org/10.1038/s41467-021-21625-2"
+external_link: "https://doi.org/10.1038/s41467-021-21625-2"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -18,7 +20,6 @@ title: "A model for the fragmentation kinetics of crumpled thin sheets"
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-03-05"
 doi: "https://doi.org/10.1038/s41467-021-21625-2"
 
 # Schedule page publish date (NOT publication's date).
@@ -39,7 +40,7 @@ doi: "https://doi.org/10.1038/s41467-021-21625-2"
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+#tags: []
 
 # Display this page in the Featured widget?
 featured: false
@@ -80,6 +81,3 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-Jovana Andrejevic, Lisa M. Lee, Shmuel M. Rubinstein, Chris H. Rycroft  
-_Nature Communications_, March 2021
