@@ -18,9 +18,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Mathematical modeling and physics-based simulation
+- Computational modeling
 - Dynamics of complex systems
-- Data-driven discovery
+- Data visualization
 
 # Education to show in About widget
 education:
