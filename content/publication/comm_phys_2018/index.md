@@ -1,12 +1,12 @@
 ---
-title: "Machine learning in a data-limited regime: Augmenting experiments with synthetic data uncovers order in crumpled sheets"
-summary: Jordan Hoffmann, Yohai Bar-Sinai, Lisa M. Lee, Jovana Andrejevic, Shruti Mishra, Shmuel M. Rubinstein, Chris H. Rycroft, _Science Advances_, April 2019
-date: "2019-04-01"
+title: "A state variable for crumpled thin sheets"
+summary: Omer Gottesman, Jovana Andrejevic, Chris H. Rycroft, Shmuel M. Rubinstein, _Communications Physics_, November 2018
+date: "2018-11-08"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://doi.org/10.1126/sciadv.aau6792"
+external_link: "https://doi.org/10.1038/s42005-018-0072-x"
 
-doi: "https://doi.org/10.1126/sciadv.aau6792"
+doi: "https://doi.org/10.1038/s42005-018-0072-x"
 
 # Display this page in the Featured widget?
 featured: false
