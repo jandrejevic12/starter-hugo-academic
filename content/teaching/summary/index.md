@@ -3,7 +3,7 @@ title: Teaching summary
 #subtitle:
 
 # Summary for listings and search engines
-#summary:
+summary: My teaching experience during graduate studies has included assisting undergraduate and graduate level courses, developing a student-led mini-course, as well as formal training in effective pedagogy.
 
 # Link this post with a project
 projects: []
