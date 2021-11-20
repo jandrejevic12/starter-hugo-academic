@@ -1,44 +1,21 @@
 ---
-# An instance of the Pages widget.
+# An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: about
+
+# Activate this widget? true/false
+active: true
 
 # This file represents a page section.
 headless: true
-active: true
 
 # Order that this section appears on the page.
 weight: 50
 
-title: Teaching
-#subtitle:
+#title: Biography
 
-content:
-  # Page type to display. E.g. post, talk, publication...
-  page_type: teaching
-  # Choose how many pages you would like to display (0 = all pages)
-  #count: 1
-  # Filter on criteria
-  filters:
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
-  # Choose how many pages you would like to offset by
-  #offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  #order: desc
-
-design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 2
+# Choose the user profile to display
+# This should be the username (folder name) of a profile in your `content/authors/` folder.
+# See https://wowchemy.com/docs/get-started/#introduce-yourself
+author: teacher
 ---
