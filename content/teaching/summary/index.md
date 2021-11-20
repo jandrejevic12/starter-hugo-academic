@@ -1,5 +1,5 @@
 ---
-title: Teaching experience
+title: Teaching summary
 #subtitle:
 
 # Summary for listings and search engines
@@ -9,10 +9,10 @@ title: Teaching experience
 projects: []
 
 # Date published
-#date: "2020-12-13T00:00:00Z"
+date: "2021-11-20"
 
 # Date updated
-#lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-11-20"
 
 # Is this an unpublished draft?
 draft: false
@@ -27,6 +27,9 @@ featured: false
   #focal_point: ""
   #placement: 2
   #preview_only: false
+
+links:
+url_pdf: uploads/teaching_statement.pdf
 ---
 
 My teaching experience during graduate studies has included assisting undergraduate and graduate level courses, developing a student-led mini-course, as well as formal training in effective pedagogy.
