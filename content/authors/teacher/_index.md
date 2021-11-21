@@ -22,7 +22,7 @@ highlight_name: false
 ---
 My teaching experience during graduate studies has included assisting undergraduate and graduate level courses, developing a student-led mini-course, as well as formal training in effective pedagogy. [Read more]({{< ref "/teaching/summary" >}} "Teaching Summary")
 
-## Courses taught
+### Courses taught
 
 - Applied Physics 50A - Physics as a Foundation for Science and Engineering I (Fall 2017)
 - Applied Physics 50B - Physics as a Foundation for Science and Engineering II (Spring 2018)
