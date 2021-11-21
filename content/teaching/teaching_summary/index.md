@@ -42,11 +42,11 @@ I served as Teaching Fellow for the following courses:
 - Engineering Sciences 301 - SEAS Teaching Practicum
 - Applied Math 205 - Advanced Scientific Computing: Numerical Methods
 
-My teaching philosophy statement is [available here.](../uploads/teaching_statement.pdf)
+My teaching philosophy statement is [available here.](../../uploads/teaching_statement.pdf)
 
 ### Graduate Teaching Experience
 
-As a second-year graduate student, I had the opportunity to work with Prof. Eric Mazur and teach undergraduate physics in a nontraditional setting that emphasizes peer instruction and active learning. As a Teaching Fellow, my role included co-facilitating a weekly lab section, holding office hours and grading homework, as well as mentoring student groups on two long-term projects each semester. Teaching in a nontraditional setting was pivotal to my own development as an educator and helped me formulate the core teaching values I hope to exemplify in my academic career, which can be found in my [teaching statement](../uploads/teaching_statement.pdf). In 2018 and 2019, I was awarded the White Teaching Prize for excellence in teaching undergraduate physics.
+As a second-year graduate student, I had the opportunity to work with Prof. Eric Mazur and teach undergraduate physics in a nontraditional setting that emphasizes peer instruction and active learning. As a Teaching Fellow, my role included co-facilitating a weekly lab section, holding office hours and grading homework, as well as mentoring student groups on two long-term projects each semester. Teaching in a nontraditional setting was pivotal to my own development as an educator and helped me formulate the core teaching values I hope to exemplify in my academic career, which can be found in my [teaching statement](../../uploads/teaching_statement.pdf). In 2018 and 2019, I was awarded the White Teaching Prize for excellence in teaching undergraduate physics.
 
 In the fall semesters of 2020 and 2021, I served as a Teaching Fellow for Advanced Scientific Computing: Numerical Methods, a graduate-level course taught by Prof. Chris Rycroft that introduces the fundamentals of scientific computing, from data-fitting and optimization to numerical calculus and solutions to systems of differential equations. In addition to holding office hours and grading problem sets, I prepared and led three lessons as part of a groupwork component of the course, and designed accompanying exercises that were completed in groups. Each semester, I closely mentored several student groups on their final projects, providing guidance on their initial proposal, and holding check-ins and advice throughout the process.
 
