@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Teaching Experience
 #subtitle:
 
 # Summary for listings and search engines
