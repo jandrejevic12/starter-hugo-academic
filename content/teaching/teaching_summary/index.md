@@ -31,16 +31,16 @@ featured: false
 links:
 #url_pdf: uploads/teaching_statement.pdf
 ---
-### At a glance
+### At a Glance
 
 My teaching experience during graduate studies at Harvard University has included assisting undergraduate and graduate level courses, developing a student-led mini-course, as well as formal training in effective pedagogy.
 
 I served as Teaching Fellow for the following courses:
 
-- Applied Physics 50A - Physics as a Foundation for Science and Engineering I (Fall 2017)
-- Applied Physics 50B - Physics as a Foundation for Science and Engineering II (Spring 2018)
-- Engineering Sciences 301 - SEAS Teaching Practicum (Fall 2019)
-- Applied Math 205 - Advanced Scientific Computing: Numerical Methods (Fall 2020, Fall 2021)
+- Applied Physics 50A - Physics as a Foundation for Science and Engineering I
+- Applied Physics 50B - Physics as a Foundation for Science and Engineering II
+- Engineering Sciences 301 - SEAS Teaching Practicum
+- Applied Math 205 - Advanced Scientific Computing: Numerical Methods
 
 My teaching philosophy statement is [available here.](uploads/teaching_statement.pdf)
 
