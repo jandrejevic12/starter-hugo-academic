@@ -1,5 +1,5 @@
 ---
-title: Generative Art Workshop
+title: Generative art workshop
 #summary: An example of using the in-built project page.
 tags:
 - Visualization
