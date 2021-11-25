@@ -1,5 +1,5 @@
 ---
-#title: Lights. Camera. Action! How the Hawaiian bobtail squid brings a creative vision to its maritime world of small big screens
+title: Lights. Camera. Action! How the Hawaiian bobtail squid brings a creative vision to its maritime world of small big screens
 #summary: An example of using the in-built project page.
 tags:
 - Science in the News
