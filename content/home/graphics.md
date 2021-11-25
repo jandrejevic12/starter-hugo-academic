@@ -29,8 +29,6 @@ content:
     tag: '*'
   - name: Science in the News
     tag: Science in the News
-  - name: WOW STEM
-    tag: WOW STEM
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
