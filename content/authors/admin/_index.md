@@ -66,7 +66,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! My name is Jovana, and I am a PhD candidate in Applied Physics in the School of Engineering and Applied Sciences at Harvard University. As a member of [Prof. Chris Rycroft’s research group](https://people.seas.harvard.edu/~chr/), I use computational approaches to study the crumpling dynamics of thin, elastoplastic sheets: how they deform, buckle, and develop rich, chaotic damage networks that exhibit surprising mathematical order. Broadly, I am interested in the intersection of physics-based modeling and data-driven methods to recognize patterns and structure in complex, disordered systems. Alongside research, I am passionate about teaching as well as creating graphics to promote science communication to a broader audience.
+Hello! My name is Jovana, and I am a PhD candidate in Applied Physics in the School of Engineering and Applied Sciences at Harvard University. As a member of [Prof. Chris Rycroft’s research group](https://people.seas.harvard.edu/~chr/), I use computational approaches to study the crumpling dynamics of thin, elastoplastic sheets: how they deform, buckle, and develop rich, chaotic damage networks that exhibit surprising mathematical order. Broadly, I am interested in the intersection of physics-based modeling and data-driven methods to recognize patterns and structure in complex, disordered systems. Alongside research, I am passionate about [teaching](/teaching/teaching_summary/) as well as creating [graphics](#graphics) to promote science communication to a broader audience.
 
 A copy of my current CV is [available here.](uploads/resume.pdf)
 
