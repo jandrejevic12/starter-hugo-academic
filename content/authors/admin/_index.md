@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD candidate in Applied Physics
     institution: Harvard University
-    year: present
+    year: expected 2022
   - course: BSc in Engineering Physics
     institution: Cornell University
     year: 2016
