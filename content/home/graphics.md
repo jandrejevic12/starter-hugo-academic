@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Graphics
-subtitle: ''
+subtitle: I am driven to make innovations in science accessible to audiences of various backgrounds and ages. Below are examples of my work as a Graphics Director for Science in the News, a student-led organization at Harvard University promoting science communication. 
 
 content:
   # Page type to display. E.g. project.
@@ -24,11 +24,11 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Science in the News
-    tag: Science in the News
+  #filter_button:
+  #- name: All
+  #  tag: '*'
+  #- name: Science in the News
+  #  tag: Science in the News
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
