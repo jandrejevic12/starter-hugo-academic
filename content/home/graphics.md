@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Graphics
-subtitle: I am driven to make innovations in science accessible to audiences of various backgrounds and ages. Below are examples of my work as a Graphics Director for Science in the News, a student-led organization at Harvard University promoting science communication. 
+subtitle: I enjoy making scientific content accessible to audiences of various backgrounds and ages. Below are examples of my work as a Graphics Director for Science in the News, a student-led organization at Harvard University promoting science communication. 
 
 content:
   # Page type to display. E.g. project.
