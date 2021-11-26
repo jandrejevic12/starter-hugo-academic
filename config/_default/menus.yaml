@@ -19,11 +19,11 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
-  - name: Teaching
-    url: '/teaching/teaching_summary/'
-    weight: 60
   - name: Graphics
     url: '#graphics'
+    weight: 60
+  - name: Teaching
+    url: '/teaching/teaching_summary/'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
