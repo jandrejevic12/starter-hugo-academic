@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Projects
-subtitle: ''
+subtitle: A collection of both research work and fun visualization-based projects I have worked on during graduate studies.
 
 content:
   # Page type to display. E.g. project.
