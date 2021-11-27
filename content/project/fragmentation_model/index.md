@@ -47,7 +47,7 @@ The logarithmic scaling was a remarkable reduction of complexity in characterizi
 
 We observed that these characteristic size distributions could be accurately explained by fragmentation theory, which has a rich history in modeling natural breakup phenomena such as the crushing of rock or fragmentation of volcanic debris. Such a fragmentation process can be represented by an integro-differential equation that captures the evolution of the fragment size distribution over time[^6]:
 
-$$\frac{\partial{c(x,t)}}{\partial{t}}$=-r(x)c(x,t) + \int_x^{\infty}r(y)c(y,t)f(x|y)dy$
+$$\frac{\partial{c(x,t)}}{\partial{t}}=-r(x)c(x,t) + \int_x^{\infty}r(y)c(y,t)f(x|y)dy$$
 
 In the equation above, $c(x,t)$ represents the number or concentration of fragments with size $x$ at time $t$, and $r(x)$ and $f(x|y)$ are the overall breakup rate and conditional breakup probability, respectively. With appropriate choices of $r(x)$ and $f(x|y)$ inferred from experimental data, the above equation can be solved exactly, with $c(x,t)$ in agreement with the observed facet size distributions. Building on the fragmentation theory framework, we likewise introduced a model for how the accumulation of damage slows down over repeated crumpling, as the average facet size becomes smaller. This allowed us to explain the logarithmic scaling seen in experiment.
 
