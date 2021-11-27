@@ -53,6 +53,18 @@ In the equation above, $c(x,t)$ represents the number or concentration of fragme
 
 The application of fragmentation theory to crumpling is compelling, as it offers a new perspective on a well-studied system while drawing connections to other disordered processes. Future work could explore the extent to which fragmentation theory can more broadly model damage and failure in other systems.
 
+To learn more about this project, please see the relevant publications:
+{{<cite page="/publication/comm_phys_2018" view="1" >}}
+{{<cite page="/publication/nat_commun_2021" view="1" >}}
+
+This research was also featured in:
+1. [The Latest Wrinkle in Crumple Theory - _New York Times_](https://www.nytimes.com/2021/03/08/science/math-crumple-fragmentation-andrejevic.html#:~:text=From%20studies%20of%20%E2%80%9Cgeometric%20frustration,how%20paper%20folds%20under%20pressure.&text=Sign%20up%20for%20Science%20Times,cosmos%20and%20the%20human%20body.&text=can't%20sympathize%3F-,In%20a%20sense%2C%20creases%20happen%20when%20a,sheet%20of%20material%20gets%20claustrophobia.)
+2. [Rock, Paper, Crumple! - _Harvard SEAS News_](https://www.seas.harvard.edu/news/2021/03/rock-paper-crumple)
+3. [Crumple Theory: We Can Learn a Lot From How Paper Crumples - _HowStuffWorks_](https://science.howstuffworks.com/crumple-theory.htm#:~:text=Crumple%20Theory%3A%20We%20Can%20Learn%20a%20Lot%20From%20How%20Paper%20Crumples,-By%3A%20Patrick%20J&text=They're%20all%20undergoing%20a,fit%20into%20a%20smaller%20area.)
+4. [How Paper Crumples - _Harvard Magazine_](https://www.harvardmagazine.com/2021/07/right-now-crumpled-paper)
+5. [Crumple Theory: Top of Mind with Julie Rose, Episode 1576 - _BYU Radio_](https://www.byuradio.org/08a94ba5-9a5f-4010-b057-95b6fcc31a91)
+
+
 [^1]: Luo, Jiayan, et al. "Compression and aggregation-resistant particles of crumpled soft sheets." _ACS Nano_ 5.11 (2011): 8943-8949.
 [^2]: Amir, Ariel, Yuval Oreg, and Yoseph Imry. "On relaxations and aging of various glasses." _Proceedings of the National Academy of Sciences_ 109.6 (2012): 1850-1855.
 [^3]: Lahini, Yoav, et al. "Nonmonotonic aging and memory retention in disordered mechanical systems." _Physical Review Letters_ 118.8 (2017): 085501.
