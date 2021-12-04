@@ -3,7 +3,7 @@ title: Computational modeling of crumpling dynamics
 #summary: An example of using the in-built project page.
 tags:
 - Research
-date: "2021-11-01"
+date: "2021-01-01"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""

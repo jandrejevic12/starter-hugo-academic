@@ -3,7 +3,7 @@ title: Generative art workshop
 #summary: An example of using the in-built project page.
 tags:
 - Visualization
-date: "2021-01-01"
+date: "2020-01-01"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
