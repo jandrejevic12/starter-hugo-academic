@@ -32,6 +32,6 @@ url_video: ""
 
 Together with Nina Andrejevic, George Varnavides, and Amina Matt, I helped to design and co-facilitate a winter workshop on generative art at MIT in January of 2020. The course emphasizes mathematical and natural examples of pattern formation such as fractals, cellular automata, swarming and self-organization, and emergent structure in reaction-diffusion processes. The content of the course includes both relevant theory behind these examples, as well as effective strategies for implementation in code.
 
-Material from past iterations can be found on the course's [Github repository](https://github.com/gvarnavi/generative-art-iap).
+Material from the latest installment (2022) can be found on the course [website](https://gvarnavides.com/generative-art-workshop-website) and [Github repository](https://github.com/gvarnavi/generative-art-iap).
 
 {{< video src="koch_curve.mp4" autoplay="true" >}}
