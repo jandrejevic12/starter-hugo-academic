@@ -1,11 +1,11 @@
 ---
-title: "Machine learning spectral indicators of topology"
-summary: Nina Andrejevic, Jovana Andrejevic, Chris H. Rycroft, Mingda Li, _arXiv preprint_, March 2020
+title: "Machine-learning spectral indicators of topology"
+summary: Nina Andrejevic, Jovana Andrejevic, B. Andrei Bernevig, Nicolas Regnault, Fei Han, Gilberto Fabbris, Thanh Nguyen, Nathan C. Drucker, Chris H. Rycroft, Mingda Li, _Advanced Materials_, October 2022
 #date: "2020-03-02"
-date: "2016-03-02"
+date: "2022-10-04"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://arxiv.org/abs/2003.00994"
+external_link: "https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202204113"
 
 #doi: "https://doi.org/10.1126/sciadv.aau6792"
 

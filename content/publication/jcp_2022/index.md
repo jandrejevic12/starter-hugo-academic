@@ -1,11 +1,10 @@
 ---
 title: "Simulation of crumpled sheets via alternating quasistatic and dynamic representations"
-summary: Jovana Andrejevic, Chris H. Rycroft, _arXiv preprint_, December 2021
-#date: "2021-12-28"
-date: "2016-04-02"
+summary: Jovana Andrejevic, Chris H. Rycroft, _Journal of Computational Physics_, November 2022
+date: "2022-12-15"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://arxiv.org/abs/2112.13268"
+external_link: "https://www.sciencedirect.com/science/article/pii/S0021999122006702"
 
 #doi: "https://doi.org/10.1126/sciadv.aau6792"
 
