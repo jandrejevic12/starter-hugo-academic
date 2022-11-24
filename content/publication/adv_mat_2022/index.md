@@ -7,7 +7,7 @@ date: "2022-10-04"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202204113"
 
-#doi: "https://doi.org/10.1126/sciadv.aau6792"
+doi: "https://doi.org/10.1002/adma.202204113"
 
 # Display this page in the Featured widget?
 featured: false
