@@ -6,12 +6,12 @@ title: Jovana Andrejevic
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Engineering and Applied Sciences, Harvard University
-  url: https://www.seas.harvard.edu/
+- name: Department of Physics and Astronomy, University of Pennsylvania
+  url: https://www.physics.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -19,15 +19,15 @@ organizations:
 # Interests to show in About widget
 interests:
 - Computational modeling
-- Dynamics of complex systems
+- Complex systems in soft matter
 - Data visualization
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD candidate in Applied Physics
+  - course: PhD in Applied Physics
     institution: Harvard University
-    year: expected 2022
+    year: 2022
   - course: BSc in Engineering Physics
     institution: Cornell University
     year: 2016
@@ -39,13 +39,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jandrejevic@g.harvard.edu'
+  link: 'mailto:jovana@sas.upenn.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: fas
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=XilJ844AAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/jandrejevic12
@@ -66,7 +66,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! My name is Jovana, and I am a PhD candidate in Applied Physics in the School of Engineering and Applied Sciences at Harvard University. As a member of [Prof. Chris Rycroft’s research group](https://people.seas.harvard.edu/~chr/), I use computational approaches to study the crumpling dynamics of thin, elastoplastic sheets: how they deform, buckle, and develop rich, chaotic damage networks that exhibit surprising mathematical order. Broadly, I am interested in the intersection of physics-based modeling and data-driven methods to recognize patterns and structure in complex, disordered systems. Alongside research, I am passionate about [teaching](/teaching/teaching_summary/) as well as creating [graphics](#graphics) to promote science communication to a broader audience.
+Hello! My name is Jovana, and I am a Postdoctoral Researcher at the University of Pennsylvania applying computational methods to address questions in soft matter. In 2022, I completed my PhD in Applied Physics at Harvard University under the supervision of Prof. Chris Rycroft. In my PhD work, I studied the crumpling dynamics of thin, elastoplastic sheets: how they deform, buckle, and develop rich, chaotic damage networks that exhibit surprising mathematical order. Broadly, I am interested in the intersection of physics-based modeling and data-driven methods to recognize patterns and structure in complex, disordered systems. Alongside research, I am passionate about [teaching](/teaching/teaching_summary/) as well as creating [graphics](#graphics) to promote science communication to a broader audience.
 
 A copy of my current CV is [available here.](uploads/resume.pdf)
 
